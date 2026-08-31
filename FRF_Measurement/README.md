@@ -23,9 +23,9 @@ The device under test is then measured with the same excitation signal.
 
 The frequency response is calculated from the ratio between the measured spectrum and the reference spectrum:
 
-$
+$$
 H(f) = \frac{Y_\mathrm{meas}(f)}{Y_\mathrm{ref}(f)}
-$
+$$
 
 and displayed in decibels as:
 
