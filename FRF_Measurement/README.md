@@ -29,9 +29,9 @@ $$
 
 and displayed in decibels as:
 
-\[
+$$
 20\log_{10}|H(f)|
-\]
+$$
 
 Using a reference measurement compensates for the frequency response of the audio interface and the measurement signal path.
 
